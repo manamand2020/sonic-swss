@@ -58,7 +58,6 @@ orchagent_SOURCES = \
             notifications.cpp \
             nhgorch.cpp \
             nhgbase.cpp \
-            protnhg.cpp \
             cbf/cbfnhgorch.cpp  \
             cbf/nhgmaporch.cpp \
             routeorch.cpp \
